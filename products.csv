@@ -1,0 +1,121 @@
+product_name,brand,category,price,rating,popularity,stock,description
+Asus VivoBook 101,Asus,Laptop,49000,4.0,876,40,Laptop by Asus; sample catalogue entry.
+MSI Modern 102,MSI,Laptop,64000,4.1,462,30,Laptop by MSI; sample catalogue entry.
+HP Pavilion 103,HP,Laptop,93000,3.5,1100,15,Laptop by HP; sample catalogue entry.
+Acer Aspire 104,Acer,Laptop,28000,3.2,1218,27,Laptop by Acer; sample catalogue entry.
+Samsung Galaxy Book 105,Samsung,Laptop,36000,3.5,495,14,Laptop by Samsung; sample catalogue entry.
+Dell Inspiron 106,Dell,Laptop,33000,4.0,853,39,Laptop by Dell; sample catalogue entry.
+Apple MacBook 107,Apple,Laptop,84000,3.3,693,34,Laptop by Apple; sample catalogue entry.
+Lenovo IdeaPad 108,Lenovo,Laptop,91000,4.4,1348,23,Laptop by Lenovo; sample catalogue entry.
+Asus VivoBook 109,Asus,Laptop,30000,3.5,201,7,Laptop by Asus; sample catalogue entry.
+MSI Modern 110,MSI,Laptop,30000,4.0,1150,21,Laptop by MSI; sample catalogue entry.
+HP Pavilion 111,HP,Laptop,79000,4.1,402,2,Laptop by HP; sample catalogue entry.
+Acer Aspire 112,Acer,Laptop,88000,4.8,501,4,Laptop by Acer; sample catalogue entry.
+Samsung Galaxy Book 113,Samsung,Laptop,53000,3.6,1367,37,Laptop by Samsung; sample catalogue entry.
+Dell Inspiron 114,Dell,Laptop,37000,3.4,995,35,Laptop by Dell; sample catalogue entry.
+Apple MacBook 115,Apple,Laptop,77000,3.6,319,34,Laptop by Apple; sample catalogue entry.
+Lenovo IdeaPad 116,Lenovo,Laptop,80000,3.7,944,32,Laptop by Lenovo; sample catalogue entry.
+Asus VivoBook 117,Asus,Laptop,77000,3.8,1012,24,Laptop by Asus; sample catalogue entry.
+MSI Modern 118,MSI,Laptop,62000,3.2,211,10,Laptop by MSI; sample catalogue entry.
+HP Pavilion 119,HP,Laptop,91000,3.2,163,35,Laptop by HP; sample catalogue entry.
+Acer Aspire 120,Acer,Laptop,104000,4.5,474,36,Laptop by Acer; sample catalogue entry.
+Samsung Galaxy Book 121,Samsung,Laptop,105000,3.8,1295,7,Laptop by Samsung; sample catalogue entry.
+Dell Inspiron 122,Dell,Laptop,51000,4.4,1303,22,Laptop by Dell; sample catalogue entry.
+Apple MacBook 123,Apple,Laptop,70000,3.8,1243,19,Laptop by Apple; sample catalogue entry.
+Lenovo IdeaPad 124,Lenovo,Laptop,59000,3.4,154,11,Laptop by Lenovo; sample catalogue entry.
+Asus VivoBook 125,Asus,Laptop,82000,3.9,1419,2,Laptop by Asus; sample catalogue entry.
+MSI Modern 126,MSI,Laptop,94000,4.8,514,26,Laptop by MSI; sample catalogue entry.
+HP Pavilion 127,HP,Laptop,48000,4.9,1229,0,Laptop by HP; sample catalogue entry.
+Acer Aspire 128,Acer,Laptop,72000,4.1,789,15,Laptop by Acer; sample catalogue entry.
+Samsung Galaxy Book 129,Samsung,Laptop,59000,3.5,161,28,Laptop by Samsung; sample catalogue entry.
+Dell Inspiron 130,Dell,Laptop,80000,4.6,1009,3,Laptop by Dell; sample catalogue entry.
+Acer A Series 1,Acer,Smartphone,45500,3.3,548,18,Smartphone by Acer; sample catalogue entry.
+Samsung Galaxy 2,Samsung,Smartphone,13000,4.0,369,25,Smartphone by Samsung; sample catalogue entry.
+Dell Galaxy 3,Dell,Smartphone,17500,4.8,1341,9,Smartphone by Dell; sample catalogue entry.
+Apple iPhone 4,Apple,Smartphone,28000,4.5,1000,3,Smartphone by Apple; sample catalogue entry.
+Lenovo K Series 5,Lenovo,Smartphone,41000,3.5,1351,33,Smartphone by Lenovo; sample catalogue entry.
+Asus Zenfone 6,Asus,Smartphone,70000,3.3,454,23,Smartphone by Asus; sample catalogue entry.
+MSI Edge 7,MSI,Smartphone,28500,4.8,1251,27,Smartphone by MSI; sample catalogue entry.
+HP P Series 8,HP,Smartphone,71000,4.2,996,19,Smartphone by HP; sample catalogue entry.
+Acer A Series 9,Acer,Smartphone,26500,4.2,585,8,Smartphone by Acer; sample catalogue entry.
+Samsung Galaxy 10,Samsung,Smartphone,10000,3.9,277,1,Smartphone by Samsung; sample catalogue entry.
+Dell Galaxy 11,Dell,Smartphone,42500,4.3,1338,15,Smartphone by Dell; sample catalogue entry.
+Apple iPhone 12,Apple,Smartphone,83500,4.0,1419,25,Smartphone by Apple; sample catalogue entry.
+Lenovo K Series 13,Lenovo,Smartphone,26500,3.4,214,25,Smartphone by Lenovo; sample catalogue entry.
+Asus Zenfone 14,Asus,Smartphone,21000,3.5,1334,28,Smartphone by Asus; sample catalogue entry.
+MSI Edge 15,MSI,Smartphone,27000,3.3,263,18,Smartphone by MSI; sample catalogue entry.
+HP P Series 16,HP,Smartphone,25000,3.7,684,25,Smartphone by HP; sample catalogue entry.
+Acer A Series 17,Acer,Smartphone,72000,4.8,1292,10,Smartphone by Acer; sample catalogue entry.
+Samsung Galaxy 18,Samsung,Smartphone,32000,3.5,793,12,Smartphone by Samsung; sample catalogue entry.
+Dell Galaxy 19,Dell,Smartphone,79000,4.6,1256,32,Smartphone by Dell; sample catalogue entry.
+Apple iPhone 20,Apple,Smartphone,16000,4.6,36,24,Smartphone by Apple; sample catalogue entry.
+Lenovo K Series 21,Lenovo,Smartphone,68000,4.8,834,36,Smartphone by Lenovo; sample catalogue entry.
+Asus Zenfone 22,Asus,Smartphone,31000,4.7,497,16,Smartphone by Asus; sample catalogue entry.
+MSI Edge 23,MSI,Smartphone,49000,4.5,521,24,Smartphone by MSI; sample catalogue entry.
+HP P Series 24,HP,Smartphone,28500,3.8,624,32,Smartphone by HP; sample catalogue entry.
+Acer A Series 25,Acer,Smartphone,79000,4.1,1193,6,Smartphone by Acer; sample catalogue entry.
+Samsung Galaxy 26,Samsung,Smartphone,78500,4.3,1060,38,Smartphone by Samsung; sample catalogue entry.
+Dell Galaxy 27,Dell,Smartphone,50000,4.9,655,18,Smartphone by Dell; sample catalogue entry.
+Apple iPhone 28,Apple,Smartphone,76000,4.6,408,4,Smartphone by Apple; sample catalogue entry.
+Lenovo K Series 29,Lenovo,Smartphone,50500,5.0,747,4,Smartphone by Lenovo; sample catalogue entry.
+Asus Zenfone 30,Asus,Smartphone,49500,4.4,880,6,Smartphone by Asus; sample catalogue entry.
+Apple AirPods 1,Apple,Headphones,3250,4.4,1303,28,Headphones by Apple; sample catalogue entry.
+Lenovo Audio Pro 2,Lenovo,Headphones,17000,4.3,60,28,Headphones by Lenovo; sample catalogue entry.
+Asus Buds 3,Asus,Headphones,16000,4.1,817,25,Headphones by Asus; sample catalogue entry.
+MSI Gaming 4,MSI,Headphones,3250,3.6,119,27,Headphones by MSI; sample catalogue entry.
+HP Tune 5,HP,Headphones,2250,3.6,1462,37,Headphones by HP; sample catalogue entry.
+Acer Bass 6,Acer,Headphones,13750,4.5,953,15,Headphones by Acer; sample catalogue entry.
+Samsung Audio 7,Samsung,Headphones,13750,3.9,1016,14,Headphones by Samsung; sample catalogue entry.
+Dell Sound 8,Dell,Headphones,21000,4.8,1360,5,Headphones by Dell; sample catalogue entry.
+Apple AirPods 9,Apple,Headphones,2000,4.1,1027,23,Headphones by Apple; sample catalogue entry.
+Lenovo Audio Pro 10,Lenovo,Headphones,23750,4.3,462,28,Headphones by Lenovo; sample catalogue entry.
+Asus Buds 11,Asus,Headphones,21000,4.3,1288,38,Headphones by Asus; sample catalogue entry.
+MSI Gaming 12,MSI,Headphones,23250,4.7,556,15,Headphones by MSI; sample catalogue entry.
+HP Tune 13,HP,Headphones,16250,4.9,810,19,Headphones by HP; sample catalogue entry.
+Acer Bass 14,Acer,Headphones,20500,3.9,1093,0,Headphones by Acer; sample catalogue entry.
+Samsung Audio 15,Samsung,Headphones,6000,3.8,658,25,Headphones by Samsung; sample catalogue entry.
+Dell Sound 16,Dell,Headphones,23750,3.5,1153,11,Headphones by Dell; sample catalogue entry.
+Apple AirPods 17,Apple,Headphones,3500,4.1,1289,24,Headphones by Apple; sample catalogue entry.
+Lenovo Audio Pro 18,Lenovo,Headphones,24750,4.5,241,10,Headphones by Lenovo; sample catalogue entry.
+Asus Buds 19,Asus,Headphones,23500,4.0,1409,21,Headphones by Asus; sample catalogue entry.
+MSI Gaming 20,MSI,Headphones,12750,4.4,1415,12,Headphones by MSI; sample catalogue entry.
+HP Tune 21,HP,Headphones,9250,3.3,78,20,Headphones by HP; sample catalogue entry.
+Acer Bass 22,Acer,Headphones,17250,3.7,334,32,Headphones by Acer; sample catalogue entry.
+Samsung Audio 23,Samsung,Headphones,7250,3.6,1429,17,Headphones by Samsung; sample catalogue entry.
+Dell Sound 24,Dell,Headphones,23750,3.9,824,29,Headphones by Dell; sample catalogue entry.
+Apple AirPods 25,Apple,Headphones,13750,4.0,1283,17,Headphones by Apple; sample catalogue entry.
+Lenovo Audio Pro 26,Lenovo,Headphones,22250,3.5,807,39,Headphones by Lenovo; sample catalogue entry.
+Asus Buds 27,Asus,Headphones,9500,3.4,460,2,Headphones by Asus; sample catalogue entry.
+MSI Gaming 28,MSI,Headphones,12000,4.7,1463,23,Headphones by MSI; sample catalogue entry.
+HP Tune 29,HP,Headphones,1500,3.3,1207,2,Headphones by HP; sample catalogue entry.
+Acer Bass 30,Acer,Headphones,13500,4.3,1454,28,Headphones by Acer; sample catalogue entry.
+MSI Pad 1,MSI,Tablet,38500,5.0,1134,9,Tablet by MSI; sample catalogue entry.
+HP Tab 2,HP,Tablet,20000,5.0,409,29,Tablet by HP; sample catalogue entry.
+Acer Iconia 3,Acer,Tablet,55000,4.8,777,10,Tablet by Acer; sample catalogue entry.
+Samsung Tab 4,Samsung,Tablet,25000,4.2,905,33,Tablet by Samsung; sample catalogue entry.
+Dell Venue 5,Dell,Tablet,14000,3.8,874,25,Tablet by Dell; sample catalogue entry.
+Apple iPad 6,Apple,Tablet,78500,3.6,1197,37,Tablet by Apple; sample catalogue entry.
+Lenovo Tab M 7,Lenovo,Tablet,67500,4.8,56,37,Tablet by Lenovo; sample catalogue entry.
+Asus Pad 8,Asus,Tablet,17000,3.3,1367,12,Tablet by Asus; sample catalogue entry.
+MSI Pad 9,MSI,Tablet,27000,3.3,1098,38,Tablet by MSI; sample catalogue entry.
+HP Tab 10,HP,Tablet,76500,4.3,984,21,Tablet by HP; sample catalogue entry.
+Acer Iconia 11,Acer,Tablet,27500,3.7,743,18,Tablet by Acer; sample catalogue entry.
+Samsung Tab 12,Samsung,Tablet,46000,4.4,38,4,Tablet by Samsung; sample catalogue entry.
+Dell Venue 13,Dell,Tablet,16500,3.5,221,12,Tablet by Dell; sample catalogue entry.
+Apple iPad 14,Apple,Tablet,54000,3.7,140,10,Tablet by Apple; sample catalogue entry.
+Lenovo Tab M 15,Lenovo,Tablet,12500,4.3,583,25,Tablet by Lenovo; sample catalogue entry.
+Asus Pad 16,Asus,Tablet,28000,3.3,496,22,Tablet by Asus; sample catalogue entry.
+MSI Pad 17,MSI,Tablet,76500,3.7,427,12,Tablet by MSI; sample catalogue entry.
+HP Tab 18,HP,Tablet,75000,4.0,684,14,Tablet by HP; sample catalogue entry.
+Acer Iconia 19,Acer,Tablet,35000,4.1,741,38,Tablet by Acer; sample catalogue entry.
+Samsung Tab 20,Samsung,Tablet,76000,4.3,1336,11,Tablet by Samsung; sample catalogue entry.
+Dell Venue 21,Dell,Tablet,10500,4.5,1031,30,Tablet by Dell; sample catalogue entry.
+Apple iPad 22,Apple,Tablet,28500,4.8,924,1,Tablet by Apple; sample catalogue entry.
+Lenovo Tab M 23,Lenovo,Tablet,43500,4.4,465,39,Tablet by Lenovo; sample catalogue entry.
+Asus Pad 24,Asus,Tablet,76000,4.3,248,19,Tablet by Asus; sample catalogue entry.
+MSI Pad 25,MSI,Tablet,57500,3.6,970,23,Tablet by MSI; sample catalogue entry.
+HP Tab 26,HP,Tablet,9000,4.8,375,39,Tablet by HP; sample catalogue entry.
+Acer Iconia 27,Acer,Tablet,41500,4.3,790,10,Tablet by Acer; sample catalogue entry.
+Samsung Tab 28,Samsung,Tablet,31000,4.9,1118,32,Tablet by Samsung; sample catalogue entry.
+Dell Venue 29,Dell,Tablet,60500,3.6,1074,35,Tablet by Dell; sample catalogue entry.
+Apple iPad 30,Apple,Tablet,44500,4.6,762,5,Tablet by Apple; sample catalogue entry.
